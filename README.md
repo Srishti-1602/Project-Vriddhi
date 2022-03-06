@@ -1,6 +1,6 @@
 # Project-Vriddhi
 
-Really excited to share my first UI/UX based project. A very basic and simple design.
+Really excited to share my first UI/UX based project. A very basic and simple design, designed on figma and tried to develop the same using HTML, CSS and JavaScript.
 
 ### How we started this project
 
